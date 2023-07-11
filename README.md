@@ -1,10 +1,10 @@
 # Project Title
 
-The Bank Account Project.
+The Bank UI Project.
 
 ## Project Description
 
-Learning how bank account data store in Js and Account Money transer system through the javascript programming language.
+The Bank Website UI And Ux design with advance Js-DOM.
 
 ## Table of Contents
 
